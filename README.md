@@ -1,4 +1,7 @@
 # MSBA 326 Group Final Project Repository
 
-Currently exists in testing format only, pending approval of method by group members. 
+Have currently performed hands-on learning with the following group members:
+* Yichun
+* Yeji
+* Xinzi
  
